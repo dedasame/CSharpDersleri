@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma", "Alistirma\Alis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "statiklik", "statiklik\statiklik.csproj", "{9E958829-7701-4E9A-A79E-EF083EE2ADAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraylist", "arraylist\arraylist.csproj", "{E96B3119-0BB4-46A0-AC82-78BE9FB624BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9E958829-7701-4E9A-A79E-EF083EE2ADAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E958829-7701-4E9A-A79E-EF083EE2ADAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E958829-7701-4E9A-A79E-EF083EE2ADAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96B3119-0BB4-46A0-AC82-78BE9FB624BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96B3119-0BB4-46A0-AC82-78BE9FB624BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96B3119-0BB4-46A0-AC82-78BE9FB624BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96B3119-0BB4-46A0-AC82-78BE9FB624BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
