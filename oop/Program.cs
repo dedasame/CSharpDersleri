@@ -32,6 +32,12 @@ namespace oop
             Console.WriteLine("Model: " + car1.model);
 
 
+            // public : 
+            // private : class dışı erişilemez. özel degişkenler.
+            // protected :
+            // internal :
+
+
             Console.ReadLine();
 
 
